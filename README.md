@@ -1,7 +1,7 @@
-Dementia Aid
+Daily Living Aids for the Memory-Impaired
 =============
 
-Tools to help those who care for people with dementia and Alzheimer's.
+Tools to help persons with memory impairment, dementia, and Alzheimer's disease.
 
 A number of friends have relatives with dementia. I wanted to document the problems and a few potential solutions to these problems. I'd love to get your help addressing these problems. Feel free to create issues and send in pull requests for any of these!
 
